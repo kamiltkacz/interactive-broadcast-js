@@ -1,11 +1,9 @@
-const firebase = {
-  apiKey: '', // firebase apikey
-  authDomain: '', // firebase authDomain
-  databaseURL: '', // firebase databaseURL
-  projectId: '', // firebase projectId
-  storageBucket: '', // firebase storageBucket
-  messagingSenderId: '',  // firebase messagingSenderId
+const config = {
+  apiKey: 'AIzaSyCgHLTFTgcfjHjAywKwZQiPIv3dw-xncoE',
+  authDomain: 'cross-vonega.firebaseapp.com',
+  databaseURL: 'https://your-domain.firebaseio.com',
+  storageBucket: 'cross-vonega.appspot.com',
+  messagingSenderId: '875036792823',
 };
 
-export default firebase;
- 
+export default config;
